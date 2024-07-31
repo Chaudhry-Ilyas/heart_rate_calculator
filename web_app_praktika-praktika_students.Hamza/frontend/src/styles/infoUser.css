@@ -1,0 +1,18 @@
+.info-user {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .info-user td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+
+  .info-user-name-cell {
+    background-color: lightgray;
+  }
+  
+  .info-user-changed {
+    background-color: lightyellow;
+  }
