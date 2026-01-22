@@ -1,6 +1,4 @@
-Here's a basic template for your README file that you can customize further to fit the specific details of your heart rate calculation app. This template assumes the app has both frontend and backend components, developed using React and Django, respectively.
 
----
 
 # Heart Rate Calculation App
 
