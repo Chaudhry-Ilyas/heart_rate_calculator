@@ -1,6 +1,6 @@
 
 
-# Heart Rate Calculation App
+# Real-Time Heart Rate Monitoring Web Application (React + Django)
 
 ## Overview
 
@@ -97,13 +97,7 @@ Before you begin, ensure you have the following installed:
 4. **Data Analysis:**
    View and analyze your heart rate data over time.
 
-## Contributing
 
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
