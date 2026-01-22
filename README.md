@@ -21,6 +21,8 @@ The Heart Rate Calculation App is a web application that allows users to measure
 - **Database**: (Specify the database used, e.g., PostgreSQL, SQLite)
 - **Authentication**: JWT (JSON Web Tokens)
 
+![workflow](https://github.com/user-attachments/assets/892aaace-a5d8-400b-a998-f2f727d6ab97)
+
 ## Installation
 
 ### Prerequisites
