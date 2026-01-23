@@ -99,10 +99,4 @@ Before you begin, ensure you have the following installed:
 
 
 
-## Contact
 
-For any questions or feedback, please contact us at [your-email@example.com].
-
----
-
-Feel free to customize the content, add more sections, or provide additional details as needed!
